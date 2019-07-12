@@ -1,0 +1,38 @@
+nav {
+    outline-color: blue;
+    background-color: gray;
+}
+
+.inline-block {
+    display: inline-block;
+    background-color: rgb(117, 117, 117);
+    padding:15px;
+       
+}
+
+.left {
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 29%;
+    height: 1000px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.right {
+    display: inline-block;
+    background-color: rgb(215, 248, 250);
+    width: 69%;
+    height: 1000px;
+}
+img {
+    width: 100%
+}
+
+.bottom {
+    text-align: left;
+    padding-left: 20px;
+
+
+}
+
